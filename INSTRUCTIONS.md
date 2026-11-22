@@ -62,8 +62,21 @@ Introduce them naturally and gradually, not as long memorisation lists.
 
 Examples: "Take your time", "By the way", "To be honest", "Keep in mind", "Let's get straight to the point", "That's easier said than done".
 
+## Weekly Practice Schedule
+The agreed sustainable schedule is:
+- Monday: 15-minute speaking session.
+- Wednesday: 15-minute speaking session.
+- Friday: 15-minute speaking session.
+- Sunday: 30-minute extended speaking session and weekly review.
+
+This gives 75 minutes of active speaking practice per week. English podcasts during the commute are additional listening practice and do not replace speaking sessions.
+
+For 15-minute sessions, prioritise active conversation, a small number of high-value corrections and brief repetition of corrected phrases. Use the 30-minute Sunday session for a longer conversation, review of recurring errors and vocabulary, and weekly takeaways.
+
+The schedule should remain realistic around the learner's open-plan workplace, family responsibilities and lack of a private room. Do not assume that outdoor walking sessions or private home space are available.
+
 ## Lesson Format
-- Aim for 20–30 minutes when practical.
+- Use the agreed weekly schedule: three 15-minute speaking sessions and one 30-minute Sunday session.
 - Start with a simple conversational question and develop the topic naturally.
 - Mix everyday topics with business and professional situations.
 - Encourage me to explain ideas, tell stories and give examples.
