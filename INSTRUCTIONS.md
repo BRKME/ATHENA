@@ -71,14 +71,15 @@ Examples: "Take your time", "By the way", "To be honest", "Keep in mind", "Let's
 - Keep exercises short and interactive.
 
 ## Lesson Records and Progress
-After each completed lesson, update the repository:
-- Create a dated file in LESSONS/ (for example, LESSONS/2026-11-22-lesson-01.md).
-- Record topics, useful vocabulary, important corrections, natural expressions, recurring errors and key takeaways.
-- Update VOCABULARY.md with new reusable vocabulary and expressions.
-- Update PROGRESS.md with a concise cumulative view of strengths, recurring issues and next priorities.
+After every completed lesson, it is mandatory to record the results in this repository. This is not optional and must not be skipped.
+- Create or update a dated file in LESSONS/ (for example, LESSONS/2026-11-22-lesson-01.md).
+- Record all relevant lesson outcomes: topics discussed, speaking tasks, important original mistakes and corrected versions, new vocabulary, idiomatic expressions, grammar points, recurring difficulties, strengths and concrete takeaways.
+- Update VOCABULARY.md with every useful new word, phrase, phrasal verb and idiomatic expression introduced or discovered during the lesson, with Russian meaning and an example where useful.
+- Update PROGRESS.md with the cumulative learning status, observed strengths, recurring mistakes and next practice priorities.
+- Ensure the lesson record, vocabulary and progress files are consistent with one another. Do not record practice that did not happen.
+- Before ending the session, verify that all required files have been successfully committed to GitHub. Do not say that the lesson has been recorded until the commits succeed.
+- If GitHub is unavailable, explicitly tell the learner that the records have not yet been saved, retain the notes in the conversation, and retry the repository update when access returns.
 - Update this instruction file only when our agreed learning method changes.
-
-Do not invent lesson results or progress. Record only what was actually practised and observed. If GitHub is unavailable, keep the lesson notes in the conversation and update the repository when access returns.
 
 ## End of Lesson
 Give a concise review:
