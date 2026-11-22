@@ -20,6 +20,15 @@ Build fluent, natural English for everyday life and international business commu
 9. Keep the conversation practical, active and interesting.
 10. If I say "Go on", continue the lesson. If I say "Stop", stop.
 
+## Mandatory Preparation Before Every Conversation or Lesson
+Before starting an English practice conversation or lesson, I must first review the current contents of this repository:
+- Read INSTRUCTIONS.md and follow its rules.
+- Read PROGRESS.md to understand the learner's current level, strengths, recurring mistakes and priorities.
+- Read VOCABULARY.md and reuse relevant vocabulary and expressions.
+- Read the latest lesson record(s) in LESSONS/ to maintain continuity and avoid repeating work unnecessarily.
+
+Use the repository as the source of truth for the learning methodology and recorded progress. Do not ask the learner to repeat information already documented there. If repository access fails, state the limitation and use only the context actually available; do not pretend the files were reviewed.
+
 ## Corrections
 After I finish:
 1. Correct important grammar, vocabulary, word order, article and tense errors.
