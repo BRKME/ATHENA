@@ -28,3 +28,33 @@
 
 ## Next Practice
 Tell a short story about an evening out using past simple and sequencing expressions. Practise three idiomatic expressions in original sentences.
+
+## Observations from Lesson 02 (2026-11-24)
+### Strengths
+- Used "to be honest" and "fall behind" correctly in business contexts.
+- Produced a clean, natural interview-style explanation: "To be honest, our project is late because our colleagues didn't deliver the analytics on time."
+- Self-corrected and repeated improved versions willingly.
+- Good vocabulary range when discussing personal interests (games, films, cats).
+- Asked useful meta-questions about learning method and pronunciation.
+
+### Recurring mistakes
+1. Dropping small words: "to" (go home, not go to home), "a" (a dinner → dinner), articles before countable nouns.
+2. Past simple slips: "I have" for "I had", "It is" for "It was", "I bought" for "I buy" in routines.
+3. Third person singular -s: "she sleep" → "she sleeps", "this make" → "this makes".
+4. Prepositions for time: "on February" → "in February"; "on summer" → "in summer".
+5. Word choice: "breast" → "chest"; "heard about" → "heard of"; "hold behind" → "fall behind"; "more better" → "better"; "in hurry up" → "in a hurry".
+6. "both" used incorrectly for more than two items.
+7. "I supposing" → "I suppose"; "supposing" confused with "I suppose".
+
+### Priorities for next lessons
+1. Articles and small words ("to", "a", "the") — still the top recurring issue.
+2. Past simple consistency in storytelling.
+3. Prepositions "in/on" for months, seasons, and specific days.
+4. Third person singular verb forms.
+5. Expand answers with examples and reasons rather than short sentences.
+
+## New Lesson Topics Agreed (2026-11-24)
+- News, finance, crypto, and artificial intelligence as regular discussion topics for business English practice.
+- Learner requested four sessions per week (currently three 15-minute + one 30-minute Sunday = 75 minutes).
+- Starting prompt format: learner pastes ATHENA instructions; tutor reads repository files before starting.
+- Lesson records, vocabulary, and progress updates are mandatory after every session.
