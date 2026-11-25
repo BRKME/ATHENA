@@ -58,3 +58,12 @@ Tell a short story about an evening out using past simple and sequencing express
 - Learner requested four sessions per week (currently three 15-minute + one 30-minute Sunday = 75 minutes).
 - Starting prompt format: learner pastes ATHENA instructions; tutor reads repository files before starting.
 - Lesson records, vocabulary, and progress updates are mandatory after every session.
+
+## Observations from Lesson 03 (2026-11-25)
+- Session aborted immediately due to weekly token limit.
+- No speaking practice completed.
+- Learner clearly requested a repository update before ending.
+- Priorities remain unchanged.
+
+## Next Session
+Friday 15-minute speaking session. Focus on articles/small words and a short news/finance/crypto/AI discussion. Recycle: fall behind, to be honest, make sense, in a hurry, take it week by week.
